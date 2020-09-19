@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\leet\obj\Debug\netcoreapp3.1\leet.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\leet\obj\Debug\netcoreapp3.1\leet.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\leet\obj\Debug\netcoreapp3.1\leet.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\leet\obj\Debug\netcoreapp3.1\leet.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\leet\bin\Debug\netcoreapp3.1\leet.exe
+C:\Users\kelly\Documents\atividadespc1\leet\bin\Debug\netcoreapp3.1\leet.deps.json
+C:\Users\kelly\Documents\atividadespc1\leet\bin\Debug\netcoreapp3.1\leet.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\leet\bin\Debug\netcoreapp3.1\leet.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\leet\bin\Debug\netcoreapp3.1\leet.dll
+C:\Users\kelly\Documents\atividadespc1\leet\bin\Debug\netcoreapp3.1\leet.pdb
+C:\Users\kelly\Documents\atividadespc1\leet\obj\Debug\netcoreapp3.1\leet.dll
+C:\Users\kelly\Documents\atividadespc1\leet\obj\Debug\netcoreapp3.1\leet.pdb
+C:\Users\kelly\Documents\atividadespc1\leet\obj\Debug\netcoreapp3.1\leet.genruntimeconfig.cache
